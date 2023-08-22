@@ -14,3 +14,12 @@ The data for two hotels is given. Both hotels are located in Portugal: the Resor
 **Data Cleaning & Analysis** - Microsoft Excel - Power Query Editor
 
 **Data Visualization Using** - Pivot Tables, Slicers, Charts & Different Visualizations
+
+
+<h2> Dashboard </h2>
+
+Note: You can download the interactive dashboard from    [Hotel booking dashboard.xlsx]
+
+
+<img src="https://github.com/Rushikeshvmane/Hotel-Booking-Cancellation-Analysis/assets/141236953/87c7d5ea-513d-4003-8fe0-911e663d72b1" height="95%" width="95%"/>
+
