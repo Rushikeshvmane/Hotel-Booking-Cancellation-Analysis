@@ -5,20 +5,23 @@
 ## Source - https://www.kaggle.com/datasets/mojtaba142/hotel-booking <h2>
   
 <h2> Description- <h2>
-This data set contains the information on 119,390 hotel bookings between 1st of July of 2015 and the 31st of August 2017. Each observation represents a hotel booking.
+This dataset contains 119390 observations for a City Hotel and a Resort Hotel. Each observation represents a hotel booking between the 1st of July 2015 and 31st of August 2017, including booking that effectively arrived and booking that were canceled.
 
-The data for two hotels is given. Both hotels are located in Portugal: the Resort Hotel is in the region of the Algarve and the City Hotel is in the city of Lisbon.
+## Business Problem
+
+In recent years, City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result, including fewer revenues and less than ideal hotel room use. Consequently, lowering cancellation rates is both hotel's primary goal in order to increase their efficiency in generating revenue, and they need a Business advice/ Suggesions on the basis of thorough analysis of their data to address this problem.
+
 
 ## Data Processing
 
-**Data Cleaning & Analysis** - Microsoft Excel - Power Query Editor
+**Data Cleaning & Analysis Using** - Python- Jypyter notebook, Pandas
 
-**Data Visualization Using** - Pivot Tables, Slicers, Charts & Different Visualizations
+**Data Visualization Using** - Matplotlib, Seaborn
 
 
-<h2> Dashboard </h2>
+<h2> Visualizations </h2>
 
-Note: You can download the interactive dashboard from    [Hotel booking dashboard.xlsx]
+Note: For detailed complete code & Insights check out [Data Analysis (Hotel Booking)] & [Final Report.pdf] files respectively.
 
 
 <img src="https://github.com/Rushikeshvmane/Hotel-Booking-Cancellation-Analysis/assets/141236953/87c7d5ea-513d-4003-8fe0-911e663d72b1" height="95%" width="95%"/>
