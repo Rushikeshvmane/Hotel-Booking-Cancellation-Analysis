@@ -25,5 +25,12 @@ Note: For detailed complete code & Insights check out [Data Analysis (Hotel Book
 
 
 
-<img src="https://github.com/Rushikeshvmane/Hotel-Booking-Cancellation-Analysis/assets/141236953/2b9a47ff-89b4-4542-83a4-eea81715aeda" height="95%" width="95%"/>
 
+
+<img src="https://github.com/Rushikeshvmane/Hotel-Booking-Cancellation-Analysis/assets/141236953/2b9a47ff-89b4-4542-83a4-eea81715aeda" height="75%" width="75%"/>
+
+
+<img src="https://github.com/Rushikeshvmane/Hotel-Booking-Cancellation-Analysis/assets/141236953/c1dfc511-4bca-4345-9b36-bedf5f9861f7" height="85%" width="85%"/>
+
+
+<img src="https://github.com/Rushikeshvmane/Hotel-Booking-Cancellation-Analysis/assets/141236953/9b4a5075-bf0b-4878-9d7f-59892ebbe44b" height="70%" width="65%"/>
