@@ -2,7 +2,7 @@
 
 <h2> About Dataset:-> 
   
-## Source - https://www.researchgate.net/publication/329286343_Hotel_booking_demand_datasets <h2>
+## Source - https://www.kaggle.com/datasets/mojtaba142/hotel-booking <h2>
   
 <h2> Description- <h2>
 This data set contains the information on 119,390 hotel bookings between 1st of July of 2015 and the 31st of August 2017. Each observation represents a hotel booking.
