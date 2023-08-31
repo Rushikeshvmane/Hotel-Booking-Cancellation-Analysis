@@ -24,5 +24,6 @@ In recent years, City Hotel and Resort Hotel have seen high cancellation rates. 
 Note: For detailed complete code & Insights check out [Data Analysis (Hotel Booking).ipynb]  &  [Final Report.pdf] files respectively.
 
 
-<img src="https://github.com/Rushikeshvmane/Hotel-Booking-Cancellation-Analysis/assets/141236953/87c7d5ea-513d-4003-8fe0-911e663d72b1" height="95%" width="95%"/>
+
+<img src="https://github.com/Rushikeshvmane/Hotel-Booking-Cancellation-Analysis/assets/141236953/2b9a47ff-89b4-4542-83a4-eea81715aeda" height="95%" width="95%"/>
 
